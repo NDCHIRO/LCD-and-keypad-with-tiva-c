@@ -1,0 +1,15 @@
+"E:\iar embedded system microcontroller\arm\bin\armproc.dll" 
+
+"E:\iar embedded system microcontroller\arm\bin\armlmiftdi.dll" 
+
+"E:\CHIRO\semester 7\micro 5ra projects\lcd project\Debug\Exe\first no.out" 
+
+--plugin="E:\iar embedded system microcontroller\arm\bin\armbat.dll" 
+
+--device_macro="E:\iar embedded system microcontroller\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+--flash_loader="E:\iar embedded system microcontroller\arm\config\flashloader\TexasInstruments\FlashTC4_H6_o.board" 
+
+
+
+
